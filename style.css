@@ -1,0 +1,36 @@
+*
+{
+    background-color: black;
+}
+
+.box
+{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.motivation-img
+{
+    width: 100%;
+    border: 5px solid white;
+}
+  
+h1
+{
+    color: #A0DEFF;
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+p
+{
+    color:#CAF4FF;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
